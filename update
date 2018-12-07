@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#
+cd ; rm -rf LIMUX ; git clone https://github.com/PentestRepo/LIMUX
+cd LIMUX
+setterm --foreground green
+echo "Update Succefuly...OK"
+
